@@ -1,13 +1,13 @@
-version: '3'
-services: 
+version: "3"
+services:
   minecraft:
-    image: "cloudchen2015/minecraft:1.16.5-20210515"
+    image: "cloudchen2015/minecraft:1.16.5-20210516"
     container_name: "minecraft"
     ports:
-        - "50012:25565"
-        - "50013:25575"
+      - "50012:25565"
+      - "50013:25575"
     volumes:
-        - "./volumes/world:/srv/minecraft/world"
-        - "./volumes/server.properties:/srv/minecraft/server.properties"
-        - "./volumes/ops.json:/srv/minecraft/ops.json"
+      - "./volumes/world:/srv/minecraft/world"
+      - "./volumes/server.properties:/srv/minecraft/server.properties"
+      - "./volumes/ops.json:/srv/minecraft/ops.json"
     working_dir: "/srv/minecraft"

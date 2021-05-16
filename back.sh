@@ -7,7 +7,7 @@
 #   0 3 * * * /srv/dev-disk-by-label-RaidDISK/cloudchen-raid/Minecraft-1.16/back.sh
 
 
-cd /srv/dev-disk-by-label-RaidDISK/cloudchen-raid/Minecraft-1.16
+cd /srv/dev-disk-by-label-RaidDISK/cloudchen-raid/Minecraft-1.16.5
 
 echo "Stop minecraft..."
 
