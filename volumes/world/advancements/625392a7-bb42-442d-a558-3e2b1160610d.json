@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/piston_launcher": {
+    "criteria": {
+      "has_item": "2021-05-20 22:22:01 +0800"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/root": {
     "criteria": {
       "tick": "2021-05-16 13:26:43 +0800"
@@ -170,6 +176,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/ingot_nickel_from_dust": {
     "criteria": {
       "has_dust_nickel": "2021-05-18 21:18:53 +0800"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/gutter_bot_red": {
+    "criteria": {
+      "has_planks": "2021-05-21 01:56:25 +0800"
     },
     "done": true
   },
@@ -353,6 +365,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/gutter_middle_red": {
+    "criteria": {
+      "has_planks": "2021-05-21 01:56:25 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-05-16 16:22:35 +0800"
@@ -527,6 +545,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2021-05-21 00:07:00 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2021-05-21 01:56:55 +0800"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/parapet/birch_plank_parapet": {
     "criteria": {
       "has_planks": "2021-05-19 22:26:41 +0800"
@@ -698,6 +728,12 @@
   "mcwdoors:recipes/jail_door": {
     "criteria": {
       "has_planks": "2021-05-16 14:26:17 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2021-05-21 00:07:00 +0800"
     },
     "done": true
   },
@@ -953,6 +989,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2021-05-20 17:19:47 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2021-05-16 17:30:20 +0800"
@@ -968,6 +1010,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/wire_copper": {
     "criteria": {
       "has_copper_ingot": "2021-05-16 17:30:20 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2021-05-21 01:56:55 +0800"
     },
     "done": true
   },
@@ -1166,6 +1214,12 @@
   "supplementaries:recipes/sign_post_oak": {
     "criteria": {
       "has_plank": "2021-05-16 13:47:27 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2021-05-20 21:06:03 +0800"
     },
     "done": true
   },
@@ -1456,6 +1510,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2021-05-21 01:56:25 +0800"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/stone/diorite_window": {
     "criteria": {
       "has_planks": "2021-05-16 14:06:40 +0800"
@@ -1591,6 +1651,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2021-05-16 18:49:18 +0800"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/gutter_base_red": {
+    "criteria": {
+      "has_planks": "2021-05-21 01:56:25 +0800"
     },
     "done": true
   },
@@ -2447,6 +2513,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2021-05-20 21:06:03 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/blueprint_molds": {
     "criteria": {
       "has_paper": "2021-05-19 18:18:59 +0800"
@@ -2681,6 +2753,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/conveyor_verticalcovered": {
+    "criteria": {
+      "has_vertical_conveyor": "2021-05-20 22:37:26 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2021-05-19 19:31:25 +0800"
@@ -2714,6 +2792,12 @@
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2021-05-16 14:06:40 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/steel_scaffolding_grate_top_to_slab": {
+    "criteria": {
+      "has_steel_scaffolding_grate_top": "2021-05-20 22:37:44 +0800"
     },
     "done": true
   },
@@ -3062,6 +3146,12 @@
   "mcwfences:recipes/oak_picket_fence": {
     "criteria": {
       "has_planks": "2021-05-16 13:47:27 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/stairs_steel_scaffolding_grate_top": {
+    "criteria": {
+      "has_steel_scaffolding_grate_top": "2021-05-20 22:37:44 +0800"
     },
     "done": true
   },
@@ -3449,6 +3539,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/steel_scaffolding_wooden_top_from_grate_top": {
+    "criteria": {
+      "has_steel_scaffolding_grate_top": "2021-05-20 22:37:44 +0800"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/oak/oak_glass_door": {
     "criteria": {
       "has_planks": "2021-05-16 13:47:27 +0800"
@@ -3575,6 +3671,12 @@
     },
     "done": true
   },
+  "littlemaidrebirth:recipes/littlemaidrebirth.common/iff_copy_book": {
+    "criteria": {
+      "book": "2021-05-20 17:19:47 +0800"
+    },
+    "done": true
+  },
   "roadstuff:recipes/roadstuff_group/cyan_traffic_cone": {
     "criteria": {
       "has_bitumen": "2021-05-16 14:06:56 +0800"
@@ -3638,6 +3740,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/blueprint_bullets": {
     "criteria": {
       "has_paper": "2021-05-19 18:18:59 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2021-05-20 17:19:47 +0800"
     },
     "done": true
   },
@@ -3767,6 +3875,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/gutter_top_red": {
+    "criteria": {
+      "has_planks": "2021-05-21 01:56:25 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2021-05-16 13:57:58 +0800"
@@ -3881,6 +3995,7 @@
       "minecraft:hoglin": "2021-05-20 13:25:19 +0800",
       "minecraft:spider": "2021-05-16 18:35:45 +0800",
       "minecraft:creeper": "2021-05-19 00:36:32 +0800",
+      "minecraft:slime": "2021-05-20 21:05:56 +0800",
       "minecraft:phantom": "2021-05-18 23:29:31 +0800",
       "minecraft:zombified_piglin": "2021-05-19 22:56:23 +0800",
       "minecraft:husk": "2021-05-19 23:37:28 +0800",
@@ -3911,6 +4026,12 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2021-05-16 13:49:41 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2021-05-20 19:49:12 +0800"
     },
     "done": true
   },
@@ -3965,6 +4086,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/stick_treated": {
     "criteria": {
       "has_treated_planks": "2021-05-17 12:21:28 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2021-05-21 00:07:00 +0800"
     },
     "done": true
   },
@@ -4094,6 +4221,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/manual": {
+    "criteria": {
+      "has_book": "2021-05-20 17:19:47 +0800"
+    },
+    "done": true
+  },
   "mcwfences:recipes/oak_wired_fence": {
     "criteria": {
       "has_planks": "2021-05-16 13:47:27 +0800"
@@ -4163,6 +4296,12 @@
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_blue_flower": "2021-05-19 18:14:13 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2021-05-21 00:07:00 +0800"
     },
     "done": true
   },
@@ -4241,6 +4380,12 @@
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2021-05-16 19:36:11 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2021-05-20 17:59:50 +0800"
     },
     "done": true
   },
@@ -4941,6 +5086,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2021-05-20 17:19:47 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/plate_steel_hammering": {
     "criteria": {
       "has_steel_ingot": "2021-05-17 12:24:08 +0800"
@@ -5076,6 +5227,12 @@
   "mcwtrpdoors:recipes/oak/oak_barn_trapdoor": {
     "criteria": {
       "has_planks": "2021-05-16 13:35:03 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
+    "criteria": {
+      "has_red_dye": "2021-05-21 01:56:25 +0800"
     },
     "done": true
   },
@@ -5229,6 +5386,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2021-05-19 22:45:24 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2021-05-21 00:07:00 +0800"
     },
     "done": true
   },
@@ -5510,6 +5673,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2021-05-21 00:52:10 +0800"
+    },
+    "done": true
+  },
   "roadstuff:recipes/roadstuff_group/purple_traffic_bollard": {
     "criteria": {
       "has_bitumen": "2021-05-16 14:06:56 +0800"
@@ -5699,6 +5868,12 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2021-05-17 20:25:14 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2021-05-21 00:07:00 +0800"
     },
     "done": true
   },
@@ -5930,6 +6105,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2021-05-20 21:06:03 +0800"
+    },
+    "done": true
+  },
   "mcwfences:recipes/modern_diorite_wall": {
     "criteria": {
       "has_planks": "2021-05-16 14:06:40 +0800"
@@ -5963,6 +6144,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2021-05-16 13:48:57 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime": "2021-05-20 22:14:27 +0800"
     },
     "done": true
   },
@@ -6128,9 +6315,21 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/steel_scaffolding_grate_top_from_slab": {
+    "criteria": {
+      "has_steel_scaffolding_grate_top": "2021-05-20 22:37:44 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2021-05-16 17:30:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2021-05-21 01:56:55 +0800"
     },
     "done": true
   },
