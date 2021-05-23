@@ -773,6 +773,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/conveyor_droppercovered": {
+    "criteria": {
+      "has_vertical_conveyor": "2021-05-23 23:46:57 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/screwdriver": {
     "criteria": {
       "has_iron_ingot": "2021-05-16 14:26:17 +0800"
@@ -1112,6 +1118,12 @@
   "supplementaries:recipes/string": {
     "criteria": {
       "has_plank": "2021-05-23 02:11:24 +0800"
+    },
+    "done": true
+  },
+  "aoa3:overworld/the_journey_begins": {
+    "criteria": {
+      "obtain_worn_book": "2021-05-24 01:55:47 +0800"
     },
     "done": true
   },
@@ -2159,6 +2171,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-05-23 19:20:13 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_sand": "2021-05-16 19:51:56 +0800"
@@ -2574,6 +2592,12 @@
     },
     "done": true
   },
+  "mapperbase:recipes/mapperbase_group/steel_rod_from_blasting": {
+    "criteria": {
+      "has_iron_rod": "2021-05-24 00:06:12 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/blueprint_components": {
     "criteria": {
       "has_paper": "2021-05-19 18:18:59 +0800"
@@ -2688,6 +2712,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/conveyor_extractcovered": {
+    "criteria": {
+      "has_vertical_conveyor": "2021-05-24 00:07:17 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_colored_gray": {
     "criteria": {
       "has_sheetmetal": "2021-05-18 13:16:13 +0800"
@@ -2721,6 +2751,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/stairs_treated_wood_packaged": {
     "criteria": {
       "has_treated_wood_packaged": "2021-05-18 23:05:07 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-05-23 19:20:13 +0800"
     },
     "done": true
   },
@@ -3111,6 +3147,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/plate_aluminum_hammering": {
     "criteria": {
       "has_aluminum_ingot": "2021-05-18 22:03:07 +0800"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2021-05-23 17:25:50 +0800"
     },
     "done": true
   },
@@ -3636,6 +3678,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2021-05-23 17:48:44 +0800"
+    },
+    "done": true
+  },
   "mapperbase:recipes/mapperbase_group/steel_fence_gate": {
     "criteria": {
       "has_steel_ingot": "2021-05-17 12:24:08 +0800"
@@ -3705,6 +3753,12 @@
   "supplementaries:recipes/candelabra": {
     "criteria": {
       "has_item": "2021-05-16 17:30:20 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-05-23 19:20:13 +0800"
     },
     "done": true
   },
@@ -3849,6 +3903,12 @@
   "littlemaidrebirth:recipes/littlemaidrebirth.common/iff_copy_book": {
     "criteria": {
       "book": "2021-05-20 17:19:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-05-23 19:20:13 +0800"
     },
     "done": true
   },
@@ -4927,6 +4987,12 @@
     },
     "done": true
   },
+  "aquaculture:recipes/food/sushi": {
+    "criteria": {
+      "has_alt_items": "2021-05-23 21:22:02 +0800"
+    },
+    "done": true
+  },
   "mapperbase:recipes/mapperbase_group/flatter_hammer": {
     "criteria": {
       "has_stick": "2021-05-16 13:27:28 +0800"
@@ -5152,6 +5218,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2021-05-23 17:31:48 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:main/place_conveyor": {
     "criteria": {
       "basic": "2021-05-19 18:54:58 +0800"
@@ -5173,6 +5245,12 @@
   "mcwtrpdoors:recipes/birch/birch_mystic_trapdoor": {
     "criteria": {
       "has_planks": "2021-05-16 13:49:41 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2021-05-23 17:35:30 +0800"
     },
     "done": true
   },
@@ -5377,6 +5455,12 @@
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2021-05-20 17:19:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2021-05-24 02:15:38 +0800"
     },
     "done": true
   },
@@ -5619,6 +5703,7 @@
       "sweet_berries": "2021-05-18 23:32:03 +0800",
       "cooked_beef": "2021-05-18 12:57:48 +0800",
       "baked_potato": "2021-05-17 20:21:38 +0800",
+      "tropical_fish": "2021-05-23 17:37:23 +0800",
       "apple": "2021-05-16 14:04:15 +0800",
       "bread": "2021-05-16 13:30:26 +0800"
     },
@@ -5713,6 +5798,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/earmuffs": {
+    "criteria": {
+      "has_iron_rod": "2021-05-24 00:06:12 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2021-05-21 00:07:00 +0800"
@@ -5764,6 +5855,12 @@
   "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
     "criteria": {
       "has_white_dye": "2021-05-18 23:45:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-05-23 19:20:13 +0800"
     },
     "done": true
   },
@@ -6441,6 +6538,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-05-23 19:20:13 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/cokebrick_from_slab": {
     "criteria": {
       "has_cokebrick": "2021-05-16 19:54:20 +0800"
@@ -6978,6 +7081,12 @@
   "mapperbase:recipes/mapperbase_group/steel_leggings": {
     "criteria": {
       "has_steel": "2021-05-17 12:24:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-05-23 19:20:13 +0800"
     },
     "done": true
   },
