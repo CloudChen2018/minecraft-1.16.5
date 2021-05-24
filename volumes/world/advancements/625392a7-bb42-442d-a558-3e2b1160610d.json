@@ -425,6 +425,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2021-05-24 21:48:32 +0800"
+    },
+    "done": true
+  },
   "easypaxelmod:wooden_paxel": {
     "criteria": {
       "has_tools": "2021-05-16 13:27:28 +0800"
@@ -896,6 +902,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/armor_steel_feet": {
     "criteria": {
       "has_steel_plate": "2021-05-19 00:26:25 +0800"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/gutter_top_pink": {
+    "criteria": {
+      "has_planks": "2021-05-24 21:07:12 +0800"
     },
     "done": true
   },
@@ -3468,6 +3480,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_carpet_from_white_carpet": {
+    "criteria": {
+      "has_pink_dye": "2021-05-24 21:07:12 +0800"
+    },
+    "done": true
+  },
   "roadstuff:recipes/roadstuff_group/brown_traffic_cone": {
     "criteria": {
       "has_bitumen": "2021-05-16 14:06:56 +0800"
@@ -3756,6 +3774,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2021-05-24 21:10:59 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2021-05-23 19:20:13 +0800"
@@ -3891,6 +3915,12 @@
   "minecraft:recipes/building_blocks/pink_terracotta": {
     "criteria": {
       "has_terracotta": "2021-05-16 19:36:18 +0800"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/gutter_middle_pink": {
+    "criteria": {
+      "has_planks": "2021-05-24 21:07:12 +0800"
     },
     "done": true
   },
@@ -4053,6 +4083,12 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2021-05-16 17:30:20 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_pink_dye": "2021-05-24 21:07:12 +0800"
     },
     "done": true
   },
@@ -4249,6 +4285,7 @@
       "minecraft:zombified_piglin": "2021-05-19 22:56:23 +0800",
       "minecraft:wither_skeleton": "2021-05-22 00:08:58 +0800",
       "minecraft:husk": "2021-05-19 23:37:28 +0800",
+      "minecraft:piglin": "2021-05-24 21:35:12 +0800",
       "minecraft:enderman": "2021-05-20 12:29:14 +0800",
       "minecraft:zombie": "2021-05-16 14:08:54 +0800",
       "minecraft:drowned": "2021-05-16 20:36:53 +0800"
@@ -4636,6 +4673,12 @@
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_red_flower": "2021-05-16 19:41:10 +0800"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/gutter_bot_pink": {
+    "criteria": {
+      "has_planks": "2021-05-24 21:07:12 +0800"
     },
     "done": true
   },
@@ -5876,6 +5919,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/gutter_base_pink": {
+    "criteria": {
+      "has_planks": "2021-05-24 21:07:12 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2021-05-19 22:40:53 +0800"
@@ -7069,6 +7118,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/storage_copper_to_slab": {
     "criteria": {
       "has_storage_copper": "2021-05-18 22:18:54 +0800"
+    },
+    "done": true
+  },
+  "easypaxelmod:gemseeker_paxel": {
+    "criteria": {
+      "has_tools": "2021-05-24 21:48:32 +0800"
     },
     "done": true
   },
