@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/concrete_tile_slab_from_concrete_tile_stonecutting": {
+    "criteria": {
+      "has_concrete": "2021-05-25 12:41:43 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2021-05-16 14:26:17 +0800"
@@ -68,6 +74,12 @@
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-05-16 16:22:35 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/concrete_leaded_stairs_from_concrete_leaded_stonecutting": {
+    "criteria": {
+      "has_concrete": "2021-05-25 12:41:43 +0800"
     },
     "done": true
   },
@@ -188,6 +200,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/ingot_nickel_from_dust": {
     "criteria": {
       "has_dust_nickel": "2021-05-18 21:18:53 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/concrete_to_slab": {
+    "criteria": {
+      "has_concrete": "2021-05-25 12:41:43 +0800"
     },
     "done": true
   },
@@ -518,6 +536,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/fluid_pump": {
     "criteria": {
       "has_fluid_pipe": "2021-05-23 01:24:26 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/concrete_from_slab": {
+    "criteria": {
+      "has_concrete": "2021-05-25 12:41:43 +0800"
     },
     "done": true
   },
@@ -1043,6 +1067,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/concrete_stairs_from_concrete_stonecutting": {
+    "criteria": {
+      "has_concrete": "2021-05-25 12:41:43 +0800"
+    },
+    "done": true
+  },
   "supplementaries:recipes/copper_lantern": {
     "criteria": {
       "has_item": "2021-05-22 20:43:18 +0800"
@@ -1082,6 +1112,12 @@
   "minecraft:recipes/decorations/red_banner": {
     "criteria": {
       "has_red_wool": "2021-05-21 01:56:55 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/concrete_tile_stairs_from_concrete_tile_stonecutting": {
+    "criteria": {
+      "has_concrete": "2021-05-25 12:41:43 +0800"
     },
     "done": true
   },
@@ -5237,6 +5273,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/concrete_slab_from_concrete_stonecutting": {
+    "criteria": {
+      "has_concrete": "2021-05-25 12:41:43 +0800"
+    },
+    "done": true
+  },
   "roadstuff:recipes/roadstuff_group/red_small_bollard": {
     "criteria": {
       "has_stick": "2021-05-16 13:27:28 +0800"
@@ -5336,6 +5378,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/ingot_silver_to_storage_silver": {
     "criteria": {
       "has_ingot_silver": "2021-05-18 21:22:09 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/concrete_tile": {
+    "criteria": {
+      "has_concrete": "2021-05-25 12:41:43 +0800"
     },
     "done": true
   },
@@ -5453,6 +5501,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/concrete_leaded": {
+    "criteria": {
+      "has_concrete": "2021-05-25 12:41:43 +0800"
+    },
+    "done": true
+  },
   "roadstuff:recipes/roadstuff_group/cyan_traffic_barrel": {
     "criteria": {
       "has_bitumen": "2021-05-16 14:06:56 +0800"
@@ -5474,6 +5528,12 @@
   "minecraft:recipes/building_blocks/purple_terracotta": {
     "criteria": {
       "has_terracotta": "2021-05-16 19:36:18 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/stairs_concrete": {
+    "criteria": {
+      "has_concrete": "2021-05-25 12:41:43 +0800"
     },
     "done": true
   },
@@ -5946,6 +6006,12 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
       "has_smooth_stone": "2021-05-17 12:26:03 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/concrete_tile_from_concrete_stonecutting": {
+    "criteria": {
+      "has_concrete": "2021-05-25 12:41:43 +0800"
     },
     "done": true
   },
@@ -6455,6 +6521,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/concrete_leaded_slab_from_concrete_leaded_stonecutting": {
+    "criteria": {
+      "has_concrete": "2021-05-25 12:41:43 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2021-05-18 22:11:25 +0800"
@@ -6818,6 +6890,12 @@
   "mapperbase:recipes/mapperbase_group/asphalt2": {
     "criteria": {
       "has_raw_bitumen": "2021-05-16 14:06:56 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/root": {
+    "criteria": {
+      "manual": "2021-05-25 12:52:03 +0800"
     },
     "done": true
   },

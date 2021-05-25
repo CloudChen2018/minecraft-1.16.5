@@ -849,6 +849,7 @@
     "criteria": {
       "minecraft:skeleton": "2021-05-23 22:16:31 +0800",
       "minecraft:spider": "2021-05-23 20:59:18 +0800",
+      "minecraft:zombified_piglin": "2021-05-25 16:16:39 +0800",
       "minecraft:silverfish": "2021-05-23 23:00:55 +0800",
       "minecraft:zombie": "2021-05-23 14:14:48 +0800"
     },
