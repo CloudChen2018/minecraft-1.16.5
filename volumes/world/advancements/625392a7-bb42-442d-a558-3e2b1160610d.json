@@ -1580,6 +1580,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2021-05-25 22:30:23 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_pickaxe": "2021-05-16 13:31:44 +0800"
@@ -4321,6 +4327,7 @@
       "minecraft:zombified_piglin": "2021-05-19 22:56:23 +0800",
       "minecraft:wither_skeleton": "2021-05-22 00:08:58 +0800",
       "minecraft:husk": "2021-05-19 23:37:28 +0800",
+      "minecraft:cave_spider": "2021-05-26 00:00:01 +0800",
       "minecraft:piglin": "2021-05-24 21:35:12 +0800",
       "minecraft:enderman": "2021-05-20 12:29:14 +0800",
       "minecraft:zombie": "2021-05-16 14:08:54 +0800",
@@ -4742,6 +4749,12 @@
     },
     "done": true
   },
+  "aoa3:completionist/half_way_there": {
+    "criteria": {
+      "level_50": "2021-05-25 23:10:12 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2021-05-16 19:36:11 +0800"
@@ -5152,6 +5165,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2021-05-25 23:46:56 +0800",
       "minecraft:forest": "2021-05-16 13:28:29 +0800",
       "minecraft:taiga": "2021-05-18 20:58:52 +0800",
       "minecraft:desert_hills": "2021-05-19 23:25:06 +0800",
@@ -5750,6 +5764,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/fluid_sorter": {
     "criteria": {
       "has_fluid_pipe": "2021-05-23 01:24:26 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stone_tile": {
+    "criteria": {
+      "has_plank": "2021-05-25 21:45:26 +0800"
     },
     "done": true
   },
@@ -7106,6 +7126,12 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2021-05-18 00:05:09 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2021-05-25 23:44:31 +0800"
     },
     "done": true
   },

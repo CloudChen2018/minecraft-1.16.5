@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2021-05-25 20:34:52 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2021-05-22 17:51:08 +0800"
@@ -305,6 +311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2021-05-25 21:44:37 +0800"
+    },
+    "done": true
+  },
   "mcwfences:recipes/birch_highley_gate": {
     "criteria": {
       "has_planks": "2021-05-23 21:11:06 +0800"
@@ -338,6 +350,12 @@
   "roadstuff:recipes/roadstuff_group/orange_traffic_cone": {
     "criteria": {
       "has_bitumen": "2021-05-23 17:59:04 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2021-05-26 01:01:50 +0800"
     },
     "done": true
   },
@@ -443,6 +461,12 @@
     },
     "done": true
   },
+  "mcwfences:recipes/modern_sandstone_wall": {
+    "criteria": {
+      "has_planks": "2021-05-26 01:01:50 +0800"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/gutter_middle_red": {
     "criteria": {
       "has_planks": "2021-05-23 14:24:25 +0800"
@@ -479,6 +503,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2021-05-25 20:34:52 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/ingot_lead": {
     "criteria": {
       "has_ore_lead": "2021-05-24 20:07:43 +0800"
@@ -494,6 +524,12 @@
   "mcwroofs:recipes/light_blue_striped_awning": {
     "criteria": {
       "has_planks": "2021-05-23 13:50:51 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2021-05-26 01:01:50 +0800"
     },
     "done": true
   },
@@ -611,6 +647,12 @@
     },
     "done": true
   },
+  "mcwfences:recipes/railing_sandstone_wall": {
+    "criteria": {
+      "has_planks": "2021-05-26 01:01:50 +0800"
+    },
+    "done": true
+  },
   "roadstuff:recipes/roadstuff_group/blue_traffic_cone": {
     "criteria": {
       "has_bitumen": "2021-05-23 17:59:04 +0800"
@@ -620,6 +662,12 @@
   "cgm:recipes/workbench": {
     "criteria": {
       "has_iron": "2021-05-22 18:27:39 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pancake": {
+    "criteria": {
+      "has_plank": "2021-05-25 21:44:37 +0800"
     },
     "done": true
   },
@@ -827,6 +875,7 @@
       "minecraft:skeleton": "2021-05-24 00:45:55 +0800",
       "minecraft:spider": "2021-05-23 15:39:22 +0800",
       "minecraft:creeper": "2021-05-23 15:30:47 +0800",
+      "minecraft:enderman": "2021-05-25 23:06:21 +0800",
       "minecraft:zombie": "2021-05-23 15:31:49 +0800"
     },
     "done": false
@@ -858,6 +907,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/treated_wood_vertical_from_horizontal": {
     "criteria": {
       "has_treated_wood_horizontal": "2021-05-23 11:30:37 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2021-05-25 20:33:50 +0800"
     },
     "done": true
   },
@@ -1485,6 +1540,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2021-05-26 01:01:50 +0800"
+    },
+    "done": true
+  },
   "roadstuff:recipes/roadstuff_group/brown_traffic_barrel": {
     "criteria": {
       "has_bitumen": "2021-05-23 17:59:04 +0800"
@@ -1864,6 +1925,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/alloybrick": {
+    "criteria": {
+      "has_brick": "2021-05-26 01:00:38 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2021-05-22 22:19:23 +0800"
@@ -1879,6 +1946,12 @@
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
       "has_red_dye": "2021-05-23 14:24:25 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2021-05-25 20:34:52 +0800"
     },
     "done": true
   },
@@ -1933,6 +2006,12 @@
   "supplementaries:recipes/speaker_block": {
     "criteria": {
       "has_item": "2021-05-22 21:38:32 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2021-05-26 01:00:38 +0800"
     },
     "done": true
   },
@@ -2008,6 +2087,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/bellows": {
+    "criteria": {
+      "has_item": "2021-05-25 20:34:52 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/plate_uranium_hammering": {
     "criteria": {
       "has_uranium_ingot": "2021-05-22 22:50:58 +0800"
@@ -2023,6 +2108,12 @@
   "easypaxelmod:iron_paxel": {
     "criteria": {
       "has_tools": "2021-05-22 18:27:39 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2021-05-26 01:01:50 +0800"
     },
     "done": true
   },
@@ -2251,6 +2342,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2021-05-26 01:01:50 +0800"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/gutter_base_red": {
     "criteria": {
       "has_planks": "2021-05-23 14:24:25 +0800"
@@ -2377,6 +2474,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_carpet": {
+    "criteria": {
+      "has_pink_wool": "2021-05-25 21:00:00 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/ingot_copper_to_storage_copper": {
     "criteria": {
       "has_ingot_copper": "2021-05-22 18:12:56 +0800"
@@ -2485,6 +2588,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2021-05-25 21:00:56 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/ingot_lead_from_blasting": {
     "criteria": {
       "has_ore_lead": "2021-05-24 20:07:43 +0800"
@@ -2547,7 +2656,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "baked_potato": "2021-05-22 21:08:40 +0800"
+      "cooked_beef": "2021-05-25 22:43:49 +0800",
+      "baked_potato": "2021-05-22 21:08:40 +0800",
+      "apple": "2021-05-25 22:24:17 +0800"
     },
     "done": false
   },
@@ -2676,6 +2787,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2021-05-26 01:01:50 +0800"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/birch/birch_classic_trapdoor": {
     "criteria": {
       "has_planks": "2021-05-22 17:46:46 +0800"
@@ -2748,6 +2865,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_banner": {
+    "criteria": {
+      "has_pink_wool": "2021-05-25 21:00:00 +0800"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/birch/birch_japanese_door": {
     "criteria": {
       "has_planks": "2021-05-23 21:11:06 +0800"
@@ -2757,6 +2880,12 @@
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2021-05-23 13:51:22 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2021-05-25 20:34:52 +0800"
     },
     "done": true
   },
@@ -2820,6 +2949,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2021-05-26 01:01:50 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-05-22 17:58:19 +0800"
@@ -2831,6 +2966,18 @@
       "has_planks": "2021-05-23 21:11:06 +0800"
     },
     "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2021-05-26 01:01:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2021-05-25 20:33:47 +0800"
+    },
+    "done": false
   },
   "mcwwindows:recipes/stone/diorite_window2_2tall": {
     "criteria": {
@@ -2931,6 +3078,18 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2021-05-22 18:27:39 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2021-05-25 21:00:56 +0800"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2021-05-26 00:05:29 +0800"
     },
     "done": true
   },
@@ -3078,6 +3237,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/planter": {
+    "criteria": {
+      "has_item": "2021-05-26 01:00:38 +0800"
+    },
+    "done": true
+  },
   "aquaculture:recipes/tools/stone_fillet_knife": {
     "criteria": {
       "has_items": "2021-05-22 17:40:58 +0800"
@@ -3135,6 +3300,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/plate_silver_hammering": {
     "criteria": {
       "has_silver_ingot": "2021-05-22 21:56:11 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2021-05-25 20:34:52 +0800"
     },
     "done": true
   },
@@ -3212,6 +3383,8 @@
   },
   "aoa3:overworld/charger_safari": {
     "criteria": {
+      "kill_king_charger": "2021-05-25 22:16:44 +0800",
+      "kill_sea_charger": "2021-05-25 22:20:17 +0800",
       "kill_charger": "2021-05-23 11:41:20 +0800"
     },
     "done": false
@@ -3414,6 +3587,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2021-05-26 01:01:50 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-05-22 17:58:19 +0800"
@@ -3558,6 +3737,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2021-05-26 01:00:38 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/treated_scaffold": {
     "criteria": {
       "has_treated_planks": "2021-05-23 11:30:37 +0800"
@@ -3567,6 +3752,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2021-05-23 13:50:51 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed": {
+    "criteria": {
+      "has_pink_wool": "2021-05-25 21:00:00 +0800"
     },
     "done": true
   },
@@ -3672,6 +3863,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/alloybrick_from_slab": {
+    "criteria": {
+      "has_alloybrick": "2021-05-26 01:02:16 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-05-22 17:58:19 +0800"
@@ -3726,6 +3923,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/alloybrick_to_slab": {
+    "criteria": {
+      "has_alloybrick": "2021-05-26 01:02:16 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2021-05-22 18:03:11 +0800"
@@ -3741,6 +3944,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2021-05-22 21:42:28 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2021-05-26 01:01:50 +0800"
     },
     "done": true
   },
@@ -3798,6 +4007,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2021-05-26 01:01:50 +0800"
+    },
+    "done": true
+  },
   "roadstuff:recipes/roadstuff_group/black_traffic_barrel": {
     "criteria": {
       "has_bitumen": "2021-05-23 17:59:04 +0800"
@@ -3825,6 +4040,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2021-05-22 22:02:43 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2021-05-26 01:01:50 +0800"
     },
     "done": true
   },
@@ -3879,6 +4100,12 @@
   "roadstuff:recipes/roadstuff_group/cyan_traffic_bollard": {
     "criteria": {
       "has_bitumen": "2021-05-23 17:59:04 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2021-05-25 20:34:52 +0800"
     },
     "done": true
   },
@@ -3987,6 +4214,12 @@
   "mapperbase:recipes/mapperbase_group/asphalt3": {
     "criteria": {
       "has_raw_bitumen": "2021-05-23 17:59:04 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2021-05-25 20:33:50 +0800"
     },
     "done": true
   },
@@ -4188,6 +4421,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2021-05-25 20:33:47 +0800"
+    },
+    "done": true
+  },
   "roadstuff:recipes/roadstuff_group/yellow_traffic_bollard": {
     "criteria": {
       "has_bitumen": "2021-05-23 17:59:04 +0800"
@@ -4269,6 +4508,12 @@
   "mapperbase:recipes/mapperbase_group/bitumen_block": {
     "criteria": {
       "has_raw_bitumen": "2021-05-23 17:59:04 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2021-05-25 20:33:50 +0800"
     },
     "done": true
   },
@@ -4372,6 +4617,12 @@
   "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-05-23 17:41:51 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/conveyor_basic": {
+    "criteria": {
+      "has_leather": "2021-05-25 20:34:52 +0800"
     },
     "done": true
   },

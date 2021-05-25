@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting": {
+    "criteria": {
+      "has_gold_ore": "2021-05-25 20:47:20 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/ingot_nickel_from_dust": {
     "criteria": {
       "has_dust_nickel": "2021-05-24 23:28:01 +0800"
@@ -176,6 +182,12 @@
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2021-05-22 23:31:03 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2021-05-25 21:41:30 +0800"
     },
     "done": true
   },
@@ -299,6 +311,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/ingot_uranium_from_blasting": {
+    "criteria": {
+      "has_ore_uranium": "2021-05-25 21:03:58 +0800"
+    },
+    "done": true
+  },
   "easypaxelmod:wooden_paxel": {
     "criteria": {
       "has_tools": "2021-05-16 09:57:21 +0800"
@@ -359,6 +377,12 @@
     },
     "done": true
   },
+  "aoa3:completionist/green_thumb": {
+    "criteria": {
+      "obtain_gardener": "2021-05-26 00:04:57 +0800"
+    },
+    "done": true
+  },
   "roadstuff:recipes/roadstuff_group/blue_traffic_cone": {
     "criteria": {
       "has_bitumen": "2021-05-23 22:04:28 +0800"
@@ -377,6 +401,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2021-05-25 21:27:44 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2021-05-16 14:33:59 +0800"
@@ -392,6 +422,12 @@
   "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2021-05-16 14:34:05 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2021-05-25 23:23:18 +0800"
     },
     "done": true
   },
@@ -545,6 +581,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2021-05-25 20:48:00 +0800"
+    },
+    "done": true
+  },
   "supplementaries:recipes/pulley_block": {
     "criteria": {
       "has_plank": "2021-05-16 14:26:10 +0800"
@@ -614,6 +656,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2021-05-23 22:08:16 +0800"
+    },
+    "done": true
+  },
+  "easypaxelmod:diamond_paxel": {
+    "criteria": {
+      "has_tools": "2021-05-25 21:27:44 +0800"
     },
     "done": true
   },
@@ -806,6 +854,12 @@
   "mcwfences:recipes/dark_oak_stockade_fence": {
     "criteria": {
       "has_planks": "2021-05-23 00:50:37 +0800"
+    },
+    "done": true
+  },
+  "aoa3:overworld/the_journey_begins": {
+    "criteria": {
+      "obtain_worn_book": "2021-05-25 23:53:57 +0800"
     },
     "done": true
   },
@@ -1061,6 +1115,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis": "2021-05-25 20:48:00 +0800"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/strip/stripped_crimson_stem_win_2tall": {
     "criteria": {
       "has_planks": "2021-05-22 16:38:03 +0800"
@@ -1312,6 +1372,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2021-05-25 21:27:44 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2021-05-16 14:33:59 +0800"
@@ -1351,6 +1417,12 @@
   "roadstuff:recipes/roadstuff_group/pink_traffic_bollard": {
     "criteria": {
       "has_bitumen": "2021-05-23 22:04:28 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2021-05-25 21:27:44 +0800"
     },
     "done": true
   },
@@ -1504,6 +1576,12 @@
     },
     "done": true
   },
+  "aquaculture:recipes/tools/diamond_fillet_knife": {
+    "criteria": {
+      "has_items": "2021-05-25 21:27:44 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2021-05-23 22:08:16 +0800"
@@ -1640,6 +1718,12 @@
   "mcwwindows:recipes/planks/dark_oak_plank_window": {
     "criteria": {
       "has_planks": "2021-05-23 00:50:37 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2021-05-25 21:27:44 +0800"
     },
     "done": true
   },
@@ -1796,6 +1880,12 @@
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2021-05-22 23:31:03 +0800"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/diamond_fishing_rod": {
+    "criteria": {
+      "has_diamond": "2021-05-25 21:27:44 +0800"
     },
     "done": true
   },
@@ -1970,6 +2060,12 @@
   "roadstuff:recipes/roadstuff_group/magenta_traffic_cone": {
     "criteria": {
       "has_bitumen": "2021-05-23 22:04:28 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2021-05-25 21:27:44 +0800"
     },
     "done": true
   },
@@ -3047,6 +3143,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/pancake": {
+    "criteria": {
+      "has_plank": "2021-05-25 21:41:30 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2021-05-23 23:00:58 +0800"
@@ -3197,6 +3299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2021-05-25 21:27:44 +0800"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/gutter_base": {
     "criteria": {
       "has_planks": "2021-05-16 14:26:10 +0800"
@@ -3225,6 +3333,12 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2021-05-16 13:48:25 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2021-05-25 22:36:05 +0800"
     },
     "done": true
   },
@@ -3291,6 +3405,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2021-05-16 14:26:10 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/ingot_uranium": {
+    "criteria": {
+      "has_ore_uranium": "2021-05-25 21:03:58 +0800"
     },
     "done": true
   },
@@ -3864,6 +3984,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2021-05-25 21:27:44 +0800"
+    },
+    "done": true
+  },
   "supplementaries:recipes/speaker_block": {
     "criteria": {
       "has_item": "2021-05-23 00:19:53 +0800"
@@ -4191,7 +4317,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "baked_potato": "2021-05-19 23:09:26 +0800",
-      "apple": "2021-05-19 22:35:24 +0800"
+      "apple": "2021-05-19 22:35:24 +0800",
+      "bread": "2021-05-25 22:04:57 +0800"
     },
     "done": false
   },
@@ -4488,6 +4615,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2021-05-25 21:27:44 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2021-05-21 22:24:32 +0800"
@@ -4512,6 +4645,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2021-05-25 21:27:44 +0800"
+    },
+    "done": true
+  },
   "roadstuff:recipes/roadstuff_group/yellow_traffic_barrel": {
     "criteria": {
       "has_bitumen": "2021-05-23 22:04:28 +0800"
@@ -4532,7 +4671,8 @@
   },
   "aoa3:overworld/charger_safari": {
     "criteria": {
-      "kill_charger": "2021-05-16 14:03:49 +0800"
+      "kill_charger": "2021-05-16 14:03:49 +0800",
+      "kill_void_charger": "2021-05-25 21:05:05 +0800"
     },
     "done": false
   },
@@ -4656,6 +4796,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2021-05-25 21:27:44 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2021-05-23 22:08:16 +0800"
@@ -4764,6 +4910,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2021-05-25 21:27:44 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2021-05-21 22:46:53 +0800"
@@ -4857,6 +5009,12 @@
   "supplementaries:recipes/hanging_sign_spruce": {
     "criteria": {
       "has_plank": "2021-05-19 23:30:45 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot": {
+    "criteria": {
+      "has_gold_ore": "2021-05-25 20:47:20 +0800"
     },
     "done": true
   },
@@ -5361,6 +5519,12 @@
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2021-05-23 00:50:37 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2021-05-25 21:27:44 +0800"
     },
     "done": true
   },
