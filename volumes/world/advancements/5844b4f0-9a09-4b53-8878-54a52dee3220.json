@@ -4688,6 +4688,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "baked_potato": "2021-05-28 22:37:30 +0800",
       "apple": "2021-05-22 17:56:11 +0800",
       "potato": "2021-05-26 18:03:13 +0800",
       "bread": "2021-05-22 17:54:08 +0800"
@@ -5279,6 +5280,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2021-05-25 20:40:18 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_electrum": {
+    "criteria": {
+      "has_plate_electrum": "2021-05-28 23:15:31 +0800"
     },
     "done": true
   },
