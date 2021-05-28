@@ -3943,6 +3943,12 @@
     },
     "done": true
   },
+  "aoa3:deeplands/root": {
+    "criteria": {
+      "enter_block_deeplands_portal": "2021-05-27 23:32:44 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/survey_tools": {
     "criteria": {
       "has_hammer": "2021-05-16 20:39:41 +0800"
@@ -4591,6 +4597,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/stairs_alu_scaffolding_standard": {
     "criteria": {
       "has_alu_scaffolding_standard": "2021-05-27 00:13:02 +0800"
+    },
+    "done": true
+  },
+  "aoa3:overworld/key_to_the_underground": {
+    "criteria": {
+      "obtain_deeplands_realmstone": "2021-05-27 23:30:29 +0800"
     },
     "done": true
   },
