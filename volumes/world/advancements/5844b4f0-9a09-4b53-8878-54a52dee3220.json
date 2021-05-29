@@ -257,6 +257,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/minecart_metalbarrel": {
+    "criteria": {
+      "has_minecart": "2021-05-29 15:35:17 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:main/mb_crusher": {
     "criteria": {
       "crusher": "2021-05-25 23:51:48 +0800"
@@ -311,9 +317,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_green_dye": "2021-05-29 16:08:15 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2021-05-23 11:38:28 +0800"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/tackle_box": {
+    "criteria": {
+      "has_items": "2021-05-29 16:08:15 +0800"
     },
     "done": true
   },
@@ -413,6 +431,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2021-05-29 15:35:17 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2021-05-22 22:35:38 +0800"
@@ -428,6 +452,12 @@
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2021-05-25 20:37:27 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-05-29 20:26:57 +0800"
     },
     "done": true
   },
@@ -452,6 +482,12 @@
   "supplementaries:recipes/pedestal": {
     "criteria": {
       "has_item": "2021-05-27 23:51:59 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2021-05-29 20:48:25 +0800"
     },
     "done": true
   },
@@ -545,6 +581,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2021-05-29 20:48:43 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2021-05-22 18:07:10 +0800"
@@ -614,6 +656,12 @@
   "mcwdoors:recipes/jail_door": {
     "criteria": {
       "has_planks": "2021-05-22 20:59:23 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2021-05-29 20:48:25 +0800"
     },
     "done": true
   },
@@ -752,6 +800,12 @@
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2021-05-22 17:39:01 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2021-05-29 23:51:29 +0800"
     },
     "done": true
   },
@@ -1043,6 +1097,12 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/arrow/stone_brick_arrow_slit": {
+    "criteria": {
+      "has_planks": "2021-05-29 20:48:43 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/stick_aluminum": {
     "criteria": {
       "has_alu_ingot": "2021-05-23 14:25:11 +0800"
@@ -1100,6 +1160,12 @@
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
       "has_red_dye": "2021-05-25 20:39:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-05-29 20:26:57 +0800"
     },
     "done": true
   },
@@ -1172,7 +1238,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2021-05-28 17:02:15 +0800",
-      "minecraft:nether_wastes": "2021-05-28 17:19:56 +0800"
+      "minecraft:nether_wastes": "2021-05-28 17:19:56 +0800",
+      "minecraft:warped_forest": "2021-05-29 15:39:15 +0800"
     },
     "done": false
   },
@@ -1335,6 +1402,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/ingot_lead_from_dust": {
+    "criteria": {
+      "has_dust_lead": "2021-05-29 16:18:21 +0800"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/rain_gutter": {
     "criteria": {
       "has_planks": "2021-05-22 20:59:23 +0800"
@@ -1365,15 +1438,33 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/gothic/stone_brick_gothic": {
+    "criteria": {
+      "has_planks": "2021-05-29 20:48:43 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_colored_light_gray": {
     "criteria": {
       "has_sheetmetal": "2021-05-25 21:05:55 +0800"
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2021-05-29 15:35:17 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2021-05-23 14:33:36 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2021-05-29 20:48:43 +0800"
     },
     "done": true
   },
@@ -1431,6 +1522,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2021-05-29 15:35:17 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-05-22 17:58:40 +0800"
@@ -1458,6 +1555,12 @@
   "mcwroofs:recipes/black_striped_awning": {
     "criteria": {
       "has_planks": "2021-05-25 20:40:18 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/minecart_woodenbarrel": {
+    "criteria": {
+      "has_minecart": "2021-05-29 15:35:17 +0800"
     },
     "done": true
   },
@@ -1503,6 +1606,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2021-05-29 15:57:58 +0800"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/parapet/granite_parapet": {
     "criteria": {
       "has_planks": "2021-05-23 20:15:45 +0800"
@@ -1539,9 +1648,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2021-05-29 20:48:43 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/terracotta": {
     "criteria": {
       "has_clay_block": "2021-05-23 14:17:46 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/insulating_glass_to_slab": {
+    "criteria": {
+      "has_insulating_glass": "2021-05-29 16:11:15 +0800"
     },
     "done": true
   },
@@ -1596,6 +1717,12 @@
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_reeds": "2021-05-23 11:39:23 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/razor_wire": {
+    "criteria": {
+      "has_wire_steel": "2021-05-29 16:15:27 +0800"
     },
     "done": true
   },
@@ -1683,6 +1810,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2021-05-29 20:48:43 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/capacitor_mv": {
     "criteria": {
       "has_treated_planks": "2021-05-23 14:02:31 +0800"
@@ -1728,6 +1861,12 @@
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2021-05-23 20:15:45 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/storage_lead_to_slab": {
+    "criteria": {
+      "has_storage_lead": "2021-05-29 16:20:09 +0800"
     },
     "done": true
   },
@@ -1806,6 +1945,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2021-05-23 13:55:55 +0800"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/gutter_base_green": {
+    "criteria": {
+      "has_planks": "2021-05-29 16:08:15 +0800"
     },
     "done": true
   },
@@ -1977,6 +2122,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2021-05-29 20:48:43 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2021-05-22 22:56:29 +0800"
@@ -2007,9 +2158,21 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/gutter_top_green": {
+    "criteria": {
+      "has_planks": "2021-05-29 16:08:15 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2021-05-22 22:20:38 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/mb_dieselgen": {
+    "criteria": {
+      "dieselgenerator": "2021-05-29 15:15:43 +0800"
     },
     "done": true
   },
@@ -2163,6 +2326,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-05-29 20:26:57 +0800"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/metal_door": {
     "criteria": {
       "has_planks": "2021-05-22 20:59:23 +0800"
@@ -2235,6 +2404,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_carpet_from_white_carpet": {
+    "criteria": {
+      "has_green_dye": "2021-05-29 16:08:15 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2021-05-22 17:39:01 +0800"
@@ -2268,6 +2443,12 @@
   "mcwwindows:recipes/stone/granite_win_2tall": {
     "criteria": {
       "has_planks": "2021-05-23 20:15:45 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2021-05-29 20:48:43 +0800"
     },
     "done": true
   },
@@ -2334,6 +2515,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_colored_black": {
     "criteria": {
       "has_sheetmetal": "2021-05-25 21:05:55 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2021-05-29 20:48:43 +0800"
     },
     "done": true
   },
@@ -2496,6 +2683,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_colored_orange": {
     "criteria": {
       "has_sheetmetal": "2021-05-25 21:05:55 +0800"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/gothic/stone_brick_gothic_tall": {
+    "criteria": {
+      "has_planks": "2021-05-29 20:48:43 +0800"
     },
     "done": true
   },
@@ -2793,6 +2986,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-05-29 20:26:57 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/connector_lv_relay": {
     "criteria": {
       "has_copper_ingot": "2021-05-23 11:33:46 +0800"
@@ -2964,6 +3163,18 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/ingot_silver": {
     "criteria": {
       "has_ore_silver": "2021-05-22 21:26:30 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-05-29 20:26:57 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2021-05-29 20:48:43 +0800"
     },
     "done": true
   },
@@ -3321,6 +3532,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/minecart_woodencrate": {
+    "criteria": {
+      "has_minecart": "2021-05-29 15:35:17 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2021-05-25 20:37:27 +0800"
@@ -3426,6 +3643,12 @@
   "mcwroofs:recipes/gutter_top_red": {
     "criteria": {
       "has_planks": "2021-05-25 20:39:52 +0800"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/railing_stone_brick_wall": {
+    "criteria": {
+      "has_planks": "2021-05-29 20:48:43 +0800"
     },
     "done": true
   },
@@ -3593,6 +3816,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-05-29 20:26:57 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-05-23 16:57:03 +0800"
@@ -3632,6 +3861,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/stick_treated": {
     "criteria": {
       "has_treated_planks": "2021-05-23 14:02:31 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2021-05-29 20:48:25 +0800"
     },
     "done": true
   },
@@ -3704,6 +3939,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/connector_hv_relay": {
     "criteria": {
       "has_aluminum_ingot": "2021-05-22 20:59:23 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-05-29 20:26:57 +0800"
     },
     "done": true
   },
@@ -3785,9 +4026,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2021-05-29 20:48:25 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/coil_hv": {
     "criteria": {
       "has_steel_ingot": "2021-05-23 13:54:04 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-05-29 20:26:57 +0800"
     },
     "done": true
   },
@@ -3911,6 +4164,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2021-05-29 23:51:29 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/ingot_aluminum_to_storage_aluminum": {
     "criteria": {
       "has_ingot_aluminum": "2021-05-23 14:25:11 +0800"
@@ -4010,6 +4269,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/cokebrick_to_slab": {
     "criteria": {
       "has_cokebrick": "2021-05-23 14:33:57 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/storage_lead_from_slab": {
+    "criteria": {
+      "has_storage_lead": "2021-05-29 16:20:09 +0800"
     },
     "done": true
   },
@@ -4186,6 +4451,7 @@
       "minecraft:forest": "2021-05-22 15:25:54 +0800",
       "minecraft:taiga": "2021-05-23 16:23:56 +0800",
       "minecraft:taiga_hills": "2021-05-23 16:25:01 +0800",
+      "minecraft:warm_ocean": "2021-05-29 15:40:01 +0800",
       "minecraft:beach": "2021-05-23 16:24:09 +0800",
       "minecraft:river": "2021-05-23 16:25:51 +0800",
       "minecraft:lukewarm_ocean": "2021-05-23 16:39:43 +0800",
@@ -4203,6 +4469,12 @@
   "supplementaries:recipes/jar": {
     "criteria": {
       "has_item": "2021-05-25 20:37:27 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2021-05-29 23:51:29 +0800"
     },
     "done": true
   },
@@ -4263,6 +4535,12 @@
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2021-05-27 23:51:59 +0800"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/gutter_middle_green": {
+    "criteria": {
+      "has_planks": "2021-05-29 16:08:15 +0800"
     },
     "done": true
   },
@@ -4332,6 +4610,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-05-29 20:26:57 +0800"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/oak/oak_western_door": {
     "criteria": {
       "has_planks": "2021-05-22 17:45:23 +0800"
@@ -4341,6 +4625,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/drillhead_iron": {
     "criteria": {
       "has_iron_ingot": "2021-05-22 20:59:23 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2021-05-29 15:35:17 +0800"
     },
     "done": true
   },
@@ -4422,6 +4712,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-05-29 20:26:57 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2021-05-22 22:20:38 +0800"
@@ -4431,6 +4727,12 @@
   "minecraft:recipes/decorations/red_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-05-23 16:57:03 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/tesla_coil": {
+    "criteria": {
+      "has_capacitor_hv": "2021-05-29 16:21:38 +0800"
     },
     "done": true
   },
@@ -4536,6 +4838,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2021-05-29 15:42:42 +0800"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/windows/oak_win_2tall": {
     "criteria": {
       "has_planks": "2021-05-22 17:43:27 +0800"
@@ -4557,6 +4865,12 @@
   "mcwwindows:recipes/stone/andesite_window": {
     "criteria": {
       "has_planks": "2021-05-22 22:20:38 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2021-05-29 16:20:47 +0800"
     },
     "done": true
   },
@@ -4653,6 +4967,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/toolupgrade_drill_damage": {
     "criteria": {
       "has_drill": "2021-05-26 13:34:40 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stone_tile": {
+    "criteria": {
+      "has_plank": "2021-05-29 20:48:43 +0800"
     },
     "done": true
   },
@@ -4796,9 +5116,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_green_dye": "2021-05-29 16:08:15 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/earmuffs": {
     "criteria": {
       "has_iron_rod": "2021-05-26 23:03:12 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2021-05-29 20:48:25 +0800"
     },
     "done": true
   },
@@ -4847,6 +5179,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2021-05-22 17:43:03 +0800"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/gutter_bot_green": {
+    "criteria": {
+      "has_planks": "2021-05-29 16:08:15 +0800"
     },
     "done": true
   },
@@ -4910,6 +5248,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/transformer_hv": {
+    "criteria": {
+      "has_hv_connector": "2021-05-29 16:14:35 +0800"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/print_classic": {
     "criteria": {
       "has_planks": "2021-05-22 17:43:27 +0800"
@@ -4943,6 +5287,12 @@
   "aquaculture:recipes/tools/stone_fillet_knife": {
     "criteria": {
       "has_items": "2021-05-22 17:38:09 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/insulating_glass_from_slab": {
+    "criteria": {
+      "has_insulating_glass": "2021-05-29 16:11:15 +0800"
     },
     "done": true
   },
@@ -5079,6 +5429,18 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/minecart_reinforcedcrate": {
+    "criteria": {
+      "has_minecart": "2021-05-29 15:35:17 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-05-29 20:26:57 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/ingot_aluminum_from_blasting": {
     "criteria": {
       "has_ore_aluminum": "2021-05-25 21:22:10 +0800"
@@ -5157,6 +5519,12 @@
     },
     "done": true
   },
+  "mcwfences:recipes/modern_stone_brick_wall": {
+    "criteria": {
+      "has_planks": "2021-05-29 20:48:43 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/maintenance_kit": {
     "criteria": {
       "has_wirecutter": "2021-05-23 13:58:10 +0800"
@@ -5223,6 +5591,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2021-05-29 20:48:25 +0800"
+    },
+    "done": true
+  },
   "littlemaidrebirth:recipes/littlemaidrebirth.common/little_maid_spawn_egg": {
     "criteria": {
       "gold_ingot": "2021-05-22 22:56:29 +0800"
@@ -5274,6 +5648,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/blueprint_bannerpatterns": {
     "criteria": {
       "has_paper": "2021-05-23 11:39:43 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2021-05-29 20:48:43 +0800"
     },
     "done": true
   },
@@ -5451,9 +5831,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-05-29 20:26:57 +0800"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/windows/birch_window": {
     "criteria": {
       "has_planks": "2021-05-22 17:48:55 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/redstone_breaker": {
+    "criteria": {
+      "has_hv_connector": "2021-05-29 16:14:35 +0800"
     },
     "done": true
   },
@@ -5685,6 +6077,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/ingot_lead_from_dust_from_blasting": {
+    "criteria": {
+      "has_dust_lead": "2021-05-29 16:18:21 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:main/craft_heater": {
     "criteria": {
       "heater": "2021-05-25 22:19:09 +0800"
@@ -5787,6 +6185,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-05-29 20:26:57 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2021-05-29 15:35:17 +0800"
+    },
+    "done": true
+  },
   "roadstuff:recipes/roadstuff_group/pink_traffic_cone": {
     "criteria": {
       "has_bitumen": "2021-05-23 21:51:21 +0800"
@@ -5817,6 +6227,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/railgun": {
+    "criteria": {
+      "has_capacitor_hv": "2021-05-29 16:21:38 +0800"
+    },
+    "done": true
+  },
   "mapperbase:recipes/mapperbase_group/steel_leggings": {
     "criteria": {
       "has_steel": "2021-05-23 13:54:04 +0800"
@@ -5844,6 +6260,12 @@
   "mcwtrpdoors:recipes/oak/oak_mystic_trapdoor": {
     "criteria": {
       "has_planks": "2021-05-22 17:43:27 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bonemeal": "2021-05-29 15:57:58 +0800"
     },
     "done": true
   },
