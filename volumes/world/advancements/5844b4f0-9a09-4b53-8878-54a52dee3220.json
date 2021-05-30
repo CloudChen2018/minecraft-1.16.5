@@ -2854,6 +2854,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2021-05-30 20:24:41 +0800"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/strip/stripped_oak_log_window2": {
     "criteria": {
       "has_planks": "2021-05-22 17:43:27 +0800"
