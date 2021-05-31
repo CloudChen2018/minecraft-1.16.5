@@ -629,6 +629,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2021-05-31 22:28:08 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_carpet": {
     "criteria": {
       "has_red_wool": "2021-05-21 22:46:52 +0800"
@@ -827,6 +833,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2021-05-31 22:28:08 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/screwdriver": {
     "criteria": {
       "has_iron_ingot": "2021-05-16 14:26:10 +0800"
@@ -992,6 +1004,12 @@
   "mcwroofs:recipes/gutter_bot_yellow": {
     "criteria": {
       "has_planks": "2021-05-26 22:48:19 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
+    "criteria": {
+      "has_light_gray_terracotta": "2021-05-31 21:23:58 +0800"
     },
     "done": true
   },
@@ -2273,6 +2291,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2021-05-31 21:24:02 +0800"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/strip/stripped_spruce_log_window": {
     "criteria": {
       "has_planks": "2021-05-16 10:02:58 +0800"
@@ -2439,6 +2463,12 @@
   "mcwdoors:recipes/dark_oak/dark_oak_modern_door": {
     "criteria": {
       "has_planks": "2021-05-23 00:50:37 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2021-05-31 21:23:51 +0800"
     },
     "done": true
   },
@@ -2673,6 +2703,12 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-05-16 15:19:37 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2021-05-31 21:23:58 +0800"
     },
     "done": true
   },
@@ -3516,6 +3552,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonbone_tool": {
+    "criteria": {
+      "sword": "2021-05-31 22:03:20 +0800"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/tile_planks_crimson": {
     "criteria": {
       "has_planks": "2021-05-22 16:38:03 +0800"
@@ -4086,6 +4128,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
+    "criteria": {
+      "ice_sword": "2021-05-31 22:03:37 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2021-05-24 00:10:37 +0800"
@@ -4519,6 +4567,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2021-05-31 22:28:08 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2021-05-23 22:08:16 +0800"
@@ -4720,6 +4774,12 @@
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_blue_flower": "2021-05-26 22:47:28 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2021-05-31 22:28:08 +0800"
     },
     "done": true
   },
@@ -5243,6 +5303,7 @@
     "criteria": {
       "minecraft:cold_ocean": "2021-05-22 23:35:18 +0800",
       "minecraft:forest": "2021-05-16 13:44:33 +0800",
+      "minecraft:badlands_plateau": "2021-05-31 21:24:21 +0800",
       "minecraft:taiga": "2021-05-16 10:02:54 +0800",
       "minecraft:desert_hills": "2021-05-19 23:22:29 +0800",
       "minecraft:desert": "2021-05-28 22:20:27 +0800",
@@ -5253,6 +5314,7 @@
       "minecraft:dark_forest": "2021-05-22 22:23:31 +0800",
       "minecraft:lukewarm_ocean": "2021-05-18 00:11:01 +0800",
       "minecraft:river": "2021-05-22 22:17:05 +0800",
+      "minecraft:snowy_taiga": "2021-05-31 21:28:10 +0800",
       "minecraft:birch_forest_hills": "2021-05-30 00:51:41 +0800",
       "minecraft:wooded_hills": "2021-05-16 13:50:36 +0800",
       "minecraft:swamp": "2021-05-30 23:11:48 +0800",
@@ -5928,6 +5990,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_ice_dragon": "2021-05-31 21:36:16 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2021-05-16 13:56:29 +0800"
@@ -5997,6 +6065,12 @@
   "supplementaries:recipes/daub": {
     "criteria": {
       "has_plank": "2021-05-27 21:21:55 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2021-05-31 22:28:08 +0800"
     },
     "done": true
   },
@@ -6338,7 +6412,9 @@
   },
   "aoa3:overworld/charger_safari": {
     "criteria": {
+      "kill_hill_charger": "2021-05-31 21:52:05 +0800",
       "kill_sea_charger": "2021-05-30 00:54:20 +0800",
+      "kill_snow_charger": "2021-05-31 21:37:44 +0800",
       "kill_charger": "2021-05-16 14:03:49 +0800",
       "kill_void_charger": "2021-05-25 21:05:05 +0800"
     },
@@ -6569,6 +6645,12 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2021-05-19 20:38:59 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2021-05-31 22:28:08 +0800"
     },
     "done": true
   },

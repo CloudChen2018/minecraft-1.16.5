@@ -2946,6 +2946,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/nugget_aluminum_recycle_faraday_legs_from_blasting": {
+    "criteria": {
+      "has_armor_faraday_legs": "2021-05-31 19:05:13 +0800"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/birch/birch_barred_trapdoor": {
     "criteria": {
       "has_planks": "2021-05-16 13:49:41 +0800"
@@ -3771,6 +3777,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/turntable": {
     "criteria": {
       "has_coil_lv": "2021-05-17 13:00:36 +0800"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_ancient_tablet": {
+    "criteria": {
+      "has_ancient_tablet_of_recall": "2021-05-31 13:47:49 +0800"
     },
     "done": true
   },
@@ -4657,6 +4669,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2021-05-31 19:06:47 +0800"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2021-05-16 13:32:25 +0800"
@@ -4806,12 +4824,14 @@
       "minecraft:blaze": "2021-05-22 00:09:48 +0800",
       "minecraft:skeleton": "2021-05-17 20:38:49 +0800",
       "minecraft:hoglin": "2021-05-20 13:25:19 +0800",
+      "minecraft:vindicator": "2021-05-31 18:53:59 +0800",
       "minecraft:magma_cube": "2021-05-22 00:37:53 +0800",
       "minecraft:spider": "2021-05-16 18:35:45 +0800",
       "minecraft:creeper": "2021-05-19 00:36:32 +0800",
       "minecraft:slime": "2021-05-20 21:05:56 +0800",
       "minecraft:phantom": "2021-05-18 23:29:31 +0800",
       "minecraft:zombified_piglin": "2021-05-19 22:56:23 +0800",
+      "minecraft:witch": "2021-05-31 02:03:06 +0800",
       "minecraft:wither_skeleton": "2021-05-22 00:08:58 +0800",
       "minecraft:husk": "2021-05-19 23:37:28 +0800",
       "minecraft:cave_spider": "2021-05-26 00:00:01 +0800",
@@ -5734,6 +5754,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/nugget_aluminum_recycle_faraday_legs": {
+    "criteria": {
+      "has_armor_faraday_legs": "2021-05-31 19:05:13 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2021-05-16 14:44:33 +0800"
@@ -6301,6 +6327,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2021-05-31 18:54:01 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2021-05-16 17:30:20 +0800"
@@ -6536,6 +6568,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_fire_dragon": "2021-05-31 01:50:52 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2021-05-16 13:57:58 +0800"
@@ -6599,6 +6637,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2021-05-19 22:45:24 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/daub": {
+    "criteria": {
+      "has_plank": "2021-05-31 18:57:23 +0800"
     },
     "done": true
   },
