@@ -6,10 +6,6 @@
 	#Configure the maximum amount of minions a player can have at a given time
 	#Range: 1 ~ 200
 	maxMinions = 10
-	#Set this to true to disable all overworld natural entity spawns.
-	#WARNING: This will make a lot of content inaccessible without further modifications.
-	#Use at your own risk!
-	disableOverworldMobs = false
 	#Set this to false to disable enchantments that breach level caps
 	allowUnsafeInfusion = true
 	#Modifier for global xp gain for all players for AoA skills.
