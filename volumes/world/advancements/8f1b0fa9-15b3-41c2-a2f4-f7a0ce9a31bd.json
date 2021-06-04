@@ -359,6 +359,12 @@
     },
     "done": true
   },
+  "aquaculture:recipes/aquaculture/nether_star_hook": {
+    "criteria": {
+      "has_items": "2021-06-05 00:52:57 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2021-05-29 15:51:36 +0800"
@@ -755,6 +761,12 @@
     },
     "done": true
   },
+  "aoa3:abyss/unwavering_eyes": {
+    "criteria": {
+      "kill_elusive": "2021-06-05 01:47:33 +0800"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/stone/stone_window": {
     "criteria": {
       "has_planks": "2021-05-29 21:51:53 +0800"
@@ -1028,6 +1040,12 @@
   "mcwwindows:recipes/parapet/oak_plank_parapet": {
     "criteria": {
       "has_planks": "2021-05-16 09:57:09 +0800"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_voodoo_poppets": {
+    "criteria": {
+      "has_ingredient": "2021-06-05 00:52:43 +0800"
     },
     "done": true
   },
@@ -4272,6 +4290,12 @@
     },
     "done": true
   },
+  "aoa3:abyss/root": {
+    "criteria": {
+      "enter_block_abyss_portal": "2021-06-05 01:06:46 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/plate_nickel_hammering": {
     "criteria": {
       "has_nickel_ingot": "2021-05-28 21:14:59 +0800"
@@ -6084,6 +6108,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2021-06-05 00:52:13 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_red_mushroom": "2021-05-22 00:41:31 +0800"
@@ -6111,6 +6141,12 @@
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2021-05-23 22:08:16 +0800"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_undead": {
+    "criteria": {
+      "coded_trigger": "2021-06-05 00:52:37 +0800"
     },
     "done": true
   },
@@ -6273,6 +6309,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2021-06-05 00:52:43 +0800"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/windows/spruce_window2": {
     "criteria": {
       "has_planks": "2021-05-16 10:02:58 +0800"
@@ -6402,6 +6444,12 @@
   "mcwwindows:recipes/gothic/nether_brick_gothic": {
     "criteria": {
       "has_planks": "2021-05-22 00:03:37 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2021-06-05 00:52:57 +0800"
     },
     "done": true
   },
@@ -7205,6 +7253,12 @@
   "aoa3:creeponia/root": {
     "criteria": {
       "enter_block_creeponia_portal": "2021-05-30 01:03:15 +0800"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2021-06-05 00:52:43 +0800"
     },
     "done": true
   },
