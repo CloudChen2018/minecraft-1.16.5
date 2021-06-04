@@ -1061,6 +1061,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2021-06-04 21:35:40 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/storage_steel_to_slab": {
     "criteria": {
       "has_storage_steel": "2021-05-29 10:47:14 +0800"
@@ -1865,6 +1871,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/mastery_1": {
+    "criteria": {
+      "coded_trigger": "2021-06-04 20:27:10 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_nugget": "2021-05-16 13:31:45 +0800"
@@ -2408,6 +2420,12 @@
   "mcwroofs:recipes/gutter_base_white": {
     "criteria": {
       "has_planks": "2021-05-18 23:45:46 +0800"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2021-06-04 20:27:10 +0800"
     },
     "done": true
   },
@@ -3963,6 +3981,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2021-05-17 20:24:19 +0800"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2021-06-04 21:47:50 +0800"
     },
     "done": true
   },
@@ -7685,6 +7709,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2021-06-04 18:20:51 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2021-05-16 13:34:40 +0800"
@@ -8506,6 +8536,12 @@
       "has_steel_ingot": "2021-05-17 12:24:08 +0800"
     },
     "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "textures/entity/cat/ragdoll.png": "2021-06-04 21:35:40 +0800"
+    },
+    "done": false
   },
   "immersiveengineering:recipes/immersiveengineering/crafting/storage_silver_to_ingot_silver": {
     "criteria": {
