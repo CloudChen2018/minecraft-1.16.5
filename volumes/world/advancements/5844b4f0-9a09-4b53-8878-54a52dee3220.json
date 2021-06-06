@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2021-06-06 14:14:42 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2021-05-25 22:05:39 +0800"
@@ -353,6 +359,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/gunpowder_from_dusts": {
+    "criteria": {
+      "has_sulfur": "2021-06-06 01:28:47 +0800"
+    },
+    "done": true
+  },
   "easypaxelmod:wooden_paxel": {
     "criteria": {
       "has_tools": "2021-05-22 17:45:26 +0800"
@@ -599,6 +611,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2021-06-06 14:14:42 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/ingot_copper_from_blasting": {
     "criteria": {
       "has_ore_copper": "2021-05-22 18:04:25 +0800"
@@ -728,6 +746,12 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2021-05-22 17:45:23 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/storage_steel_to_slab": {
+    "criteria": {
+      "has_storage_steel": "2021-06-06 00:52:46 +0800"
     },
     "done": true
   },
@@ -2434,6 +2458,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_red_flower": "2021-06-05 15:43:04 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/conveyor_extractcovered": {
     "criteria": {
       "has_vertical_conveyor": "2021-05-26 23:05:02 +0800"
@@ -2956,6 +2986,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/storage_steel_from_slab": {
+    "criteria": {
+      "has_storage_steel": "2021-06-06 00:52:46 +0800"
+    },
+    "done": true
+  },
   "mcwfences:recipes/oak_picket_fence": {
     "criteria": {
       "has_planks": "2021-05-22 17:45:23 +0800"
@@ -3079,6 +3115,12 @@
   "roadstuff:recipes/roadstuff_group/brown_traffic_cone": {
     "criteria": {
       "has_bitumen": "2021-05-23 21:51:21 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2021-06-06 14:14:42 +0800"
     },
     "done": true
   },
@@ -5219,6 +5261,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/rotten_egg": {
+    "criteria": {
+      "bestiary": "2021-06-05 14:17:40 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-05-22 17:58:40 +0800"
@@ -5901,6 +5949,12 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2021-05-22 17:43:27 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/mb_excavator": {
+    "criteria": {
+      "excavator": "2021-06-05 23:16:37 +0800"
     },
     "done": true
   },
