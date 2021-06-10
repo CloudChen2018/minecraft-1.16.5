@@ -221,6 +221,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/coal_coke_to_coke": {
+    "criteria": {
+      "has_coal_coke": "2021-06-08 22:20:10 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/ingot_nickel_from_dust": {
     "criteria": {
       "has_dust_nickel": "2021-05-24 23:28:01 +0800"
@@ -1067,6 +1073,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/armor_steel_feet": {
+    "criteria": {
+      "has_steel_plate": "2021-06-08 22:06:57 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2021-05-16 14:33:59 +0800"
@@ -1100,6 +1112,12 @@
   "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
     "criteria": {
       "has_light_gray_terracotta": "2021-05-31 21:23:58 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/wirecoil_electrum": {
+    "criteria": {
+      "has_electrum_ingot": "2021-06-08 22:20:25 +0800"
     },
     "done": true
   },
@@ -1142,6 +1160,12 @@
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2021-05-19 22:47:41 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_steel": {
+    "criteria": {
+      "has_plate_steel": "2021-06-08 22:06:57 +0800"
     },
     "done": true
   },
@@ -1307,9 +1331,21 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/armor_steel_head": {
+    "criteria": {
+      "has_steel_plate": "2021-06-08 22:06:57 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2021-05-19 22:47:41 +0800"
+    },
+    "done": true
+  },
+  "roadstuff:recipes/roadstuff_group/steel_guardrail": {
+    "criteria": {
+      "has_steel_plate": "2021-06-08 22:06:57 +0800"
     },
     "done": true
   },
@@ -1601,6 +1637,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/ingot_electrum_to_storage_electrum": {
+    "criteria": {
+      "has_ingot_electrum": "2021-06-08 22:20:25 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2021-05-17 23:09:37 +0800"
@@ -1736,6 +1778,12 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2021-05-16 14:26:10 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/chute_steel": {
+    "criteria": {
+      "has_plate": "2021-06-08 22:06:57 +0800"
     },
     "done": true
   },
@@ -1961,6 +2009,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/connector_mv": {
+    "criteria": {
+      "has_electrum_ingot": "2021-06-08 22:20:25 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_colored_light_gray": {
     "criteria": {
       "has_sheetmetal": "2021-05-27 21:07:29 +0800"
@@ -2174,6 +2228,12 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2021-05-17 22:41:20 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/armor_steel_chest": {
+    "criteria": {
+      "has_steel_plate": "2021-06-08 22:06:57 +0800"
     },
     "done": true
   },
@@ -3192,6 +3252,18 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_steel_to_slab": {
+    "criteria": {
+      "has_sheetmetal_steel": "2021-06-08 22:07:03 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/alloybrick_from_slab": {
+    "criteria": {
+      "has_alloybrick": "2021-06-08 22:17:21 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2021-05-16 14:16:09 +0800"
@@ -3225,6 +3297,12 @@
   "mcwtrpdoors:recipes/warped/warped_tropical_trapdoor": {
     "criteria": {
       "has_planks": "2021-05-22 17:10:07 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/alloybrick_to_slab": {
+    "criteria": {
+      "has_alloybrick": "2021-06-08 22:17:21 +0800"
     },
     "done": true
   },
@@ -3408,9 +3486,21 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_steel_from_slab": {
+    "criteria": {
+      "has_sheetmetal_steel": "2021-06-08 22:07:03 +0800"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/tile_log_dark_oak": {
     "criteria": {
       "has_planks": "2021-05-22 23:31:03 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/gunpowder_barrel": {
+    "criteria": {
+      "has_wooden_barrel": "2021-06-08 21:11:41 +0800"
     },
     "done": true
   },
@@ -3915,6 +4005,12 @@
   "mcwdoors:recipes/dark_oak/dark_oak_paper_door": {
     "criteria": {
       "has_planks": "2021-05-23 00:50:37 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/buzzsaw": {
+    "criteria": {
+      "has_component_steel": "2021-06-08 22:12:27 +0800"
     },
     "done": true
   },
@@ -4467,6 +4563,12 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2021-05-21 22:46:47 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/armor_steel_legs": {
+    "criteria": {
+      "has_steel_plate": "2021-06-08 22:06:57 +0800"
     },
     "done": true
   },
@@ -5127,6 +5229,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/storage_electrum_to_ingot_electrum": {
+    "criteria": {
+      "has_storage_electrum": "2021-06-08 22:20:25 +0800"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/arrow/nether_brick_arrow_slit": {
     "criteria": {
       "has_planks": "2021-05-22 00:03:37 +0800"
@@ -5154,6 +5262,12 @@
   "mcwwindows:recipes/parapet/spruce_plank_parapet": {
     "criteria": {
       "has_planks": "2021-05-19 23:30:45 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/drill": {
+    "criteria": {
+      "has_heavy_engineering": "2021-06-08 22:20:35 +0800"
     },
     "done": true
   },
@@ -6513,6 +6627,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/connector_mv_relay": {
+    "criteria": {
+      "has_electrum_ingot": "2021-06-08 22:20:25 +0800"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/print_classic": {
     "criteria": {
       "has_planks": "2021-05-16 09:57:03 +0800"
@@ -6630,6 +6750,12 @@
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2021-05-25 21:27:44 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/heavy_engineering": {
+    "criteria": {
+      "has_steel_sheetmetal": "2021-06-08 22:07:03 +0800"
     },
     "done": true
   },
@@ -6788,6 +6914,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/plate_electrum_hammering": {
+    "criteria": {
+      "has_electrum_ingot": "2021-06-08 22:20:25 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/ingot_aluminum_from_blasting": {
     "criteria": {
       "has_ore_aluminum": "2021-05-23 22:07:54 +0800"
@@ -6905,6 +7037,12 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2021-05-26 23:04:18 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/wire_electrum": {
+    "criteria": {
+      "has_electrum_ingot": "2021-06-08 22:20:25 +0800"
     },
     "done": true
   },
@@ -7037,6 +7175,12 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2021-05-16 14:33:59 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/coke_to_coal_coke": {
+    "criteria": {
+      "has_coke": "2021-06-08 22:20:10 +0800"
     },
     "done": true
   },
