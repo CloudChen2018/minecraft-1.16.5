@@ -3974,6 +3974,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/new_path": {
+    "criteria": {
+      "coded_trigger": "2021-06-14 14:30:47 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2021-05-26 21:13:32 +0800"
@@ -6651,6 +6657,12 @@
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2021-05-31 23:10:20 +0800"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tigers_blessing": {
+    "criteria": {
+      "all_effects": "2021-06-11 16:50:37 +0800"
     },
     "done": true
   },
