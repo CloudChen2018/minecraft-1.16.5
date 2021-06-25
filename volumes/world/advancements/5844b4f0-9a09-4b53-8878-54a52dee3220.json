@@ -1121,12 +1121,6 @@
     },
     "done": true
   },
-  "mapperbase:recipes/mapperbase_group/steel_nugget_from_blasting": {
-    "criteria": {
-      "has_iron_nugget": "2021-05-23 15:24:17 +0800"
-    },
-    "done": true
-  },
   "mcwwindows:recipes/arrow/stone_brick_arrow_slit": {
     "criteria": {
       "has_planks": "2021-05-29 20:48:43 +0800"
@@ -2014,12 +2008,6 @@
     },
     "done": false
   },
-  "mapperbase:recipes/mapperbase_group/steel_block_from_blasting": {
-    "criteria": {
-      "has_iron_block": "2021-05-26 13:35:20 +0800"
-    },
-    "done": true
-  },
   "mcwwindows:recipes/stone/diorite_window2_2tall": {
     "criteria": {
       "has_planks": "2021-05-22 18:06:02 +0800"
@@ -2335,12 +2323,6 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2021-05-24 00:01:01 +0800"
-    },
-    "done": true
-  },
-  "mapperbase:recipes/mapperbase_group/steel_rod_from_blasting": {
-    "criteria": {
-      "has_iron_rod": "2021-05-26 23:03:12 +0800"
     },
     "done": true
   },
@@ -4375,12 +4357,6 @@
     },
     "done": true
   },
-  "mapperbase:recipes/mapperbase_group/steel_plate_from_blasting": {
-    "criteria": {
-      "has_iron_plate": "2021-05-25 21:05:30 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2021-05-27 23:51:59 +0800"
@@ -5043,12 +5019,6 @@
     },
     "done": true
   },
-  "supplementaries:recipes/stone_tile": {
-    "criteria": {
-      "has_plank": "2021-05-29 20:48:43 +0800"
-    },
-    "done": true
-  },
   "immersiveengineering:recipes/immersiveengineering/crafting/furnace_heater": {
     "criteria": {
       "has_coil_lv": "2021-05-23 14:01:48 +0800"
@@ -5147,12 +5117,6 @@
     },
     "done": true
   },
-  "mapperbase:recipes/mapperbase_group/steel_ingot_from_blasting": {
-    "criteria": {
-      "has_iron_ingot": "2021-05-22 20:59:23 +0800"
-    },
-    "done": true
-  },
   "mcwroofs:recipes/oak_planks_three_way_roof": {
     "criteria": {
       "has_planks": "2021-05-28 01:12:59 +0800"
@@ -5180,12 +5144,6 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/dynamo": {
     "criteria": {
       "has_coil_lv": "2021-05-23 14:01:48 +0800"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/daub": {
-    "criteria": {
-      "has_plank": "2021-05-26 13:48:47 +0800"
     },
     "done": true
   },
