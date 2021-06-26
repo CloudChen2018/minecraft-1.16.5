@@ -875,6 +875,12 @@
     },
     "done": true
   },
+  "aoa3:abyss/unwavering_eyes": {
+    "criteria": {
+      "kill_elusive": "2021-06-25 22:56:02 +0800"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/stone/stone_window": {
     "criteria": {
       "has_planks": "2021-05-16 14:44:33 +0800"
@@ -1178,6 +1184,12 @@
   "mcwwindows:recipes/parapet/oak_plank_parapet": {
     "criteria": {
       "has_planks": "2021-05-16 13:47:27 +0800"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_voodoo_poppets": {
+    "criteria": {
+      "has_ingredient": "2021-06-26 01:18:29 +0800"
     },
     "done": true
   },
@@ -1865,6 +1877,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/disenchanter": {
+    "criteria": {
+      "coded_trigger": "2021-06-25 21:27:05 +0800"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sconce_lever": {
     "criteria": {
       "has_item": "2021-05-16 16:58:38 +0800"
@@ -2144,6 +2162,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/watermill": {
     "criteria": {
       "has_waterwheel_segment": "2021-05-17 12:53:06 +0800"
+    },
+    "done": true
+  },
+  "tombstone:adventure/soul_eater": {
+    "criteria": {
+      "coded_trigger": "2021-06-26 01:54:20 +0800"
     },
     "done": true
   },
@@ -2979,6 +3003,12 @@
   "mcwdoors:recipes/dark_oak/dark_oak_modern_door": {
     "criteria": {
       "has_planks": "2021-05-30 17:21:10 +0800"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2021-06-25 23:06:32 +0800"
     },
     "done": true
   },
@@ -4035,6 +4065,12 @@
   "mcwroofs:recipes/gutter_top_black": {
     "criteria": {
       "has_planks": "2021-05-18 23:52:00 +0800"
+    },
+    "done": true
+  },
+  "tombstone:adventure/almost_unkillable": {
+    "criteria": {
+      "coded_trigger": "2021-06-26 00:30:04 +0800"
     },
     "done": true
   },
@@ -5825,6 +5861,12 @@
     },
     "done": true
   },
+  "aoa3:overworld/key_to_the_haunted_lands": {
+    "criteria": {
+      "obtain_greckon_realmstone": "2021-06-25 22:53:44 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
     "criteria": {
       "has_polished_diorite": "2021-05-21 00:07:00 +0800"
@@ -6125,6 +6167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_black_flower": "2021-06-26 00:06:44 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2021-05-17 13:03:05 +0800"
@@ -6308,6 +6356,12 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie": "2021-05-16 14:08:54 +0800"
+    },
+    "done": true
+  },
+  "aoa3:abyss/the_dark_book": {
+    "criteria": {
+      "obtain_book_of_shadows": "2021-06-26 00:01:30 +0800"
     },
     "done": true
   },
@@ -6609,6 +6663,12 @@
   "mcwtrpdoors:recipes/birch/birch_mystic_trapdoor": {
     "criteria": {
       "has_planks": "2021-05-16 13:49:41 +0800"
+    },
+    "done": true
+  },
+  "aoa3:greckon/root": {
+    "criteria": {
+      "enter_block_greckon_portal": "2021-06-25 23:30:06 +0800"
     },
     "done": true
   },
@@ -7050,6 +7110,12 @@
     },
     "done": true
   },
+  "aoa3:overworld/key_to_the_darkness": {
+    "criteria": {
+      "obtain_dustopia_realmstone": "2021-06-26 00:28:45 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/decorations/crafting/torch": {
     "criteria": {
       "has_stick": "2021-05-16 13:27:28 +0800"
@@ -7152,6 +7218,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/strong_undead": {
+    "criteria": {
+      "coded_trigger": "2021-06-26 00:33:49 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/chute_copper": {
     "criteria": {
       "has_plate": "2021-05-17 13:00:21 +0800"
@@ -7181,6 +7253,12 @@
   "minecraft:recipes/building_blocks/gray_terracotta": {
     "criteria": {
       "has_terracotta": "2021-05-16 19:36:18 +0800"
+    },
+    "done": true
+  },
+  "aoa3:abyss/the_shadow_what": {
+    "criteria": {
+      "kill_shadowlord": "2021-06-26 00:33:49 +0800"
     },
     "done": true
   },
@@ -7312,6 +7390,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2021-05-21 00:07:00 +0800"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2021-06-26 01:18:29 +0800"
     },
     "done": true
   },
@@ -7501,6 +7585,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2021-06-26 00:30:04 +0800"
+    },
+    "done": true
+  },
   "roadstuff:recipes/roadstuff_group/light_gray_traffic_barrel": {
     "criteria": {
       "has_bitumen": "2021-05-16 14:06:56 +0800"
@@ -7524,6 +7614,12 @@
       "has_hv_connector": "2021-05-30 13:16:43 +0800"
     },
     "done": true
+  },
+  "tombstone:adventure/create_familiar_receptacle": {
+    "criteria": {
+      "has_familiar_receptacle": "2021-06-26 01:24:32 +0800"
+    },
+    "done": false
   },
   "mcwtrpdoors:recipes/print_classic": {
     "criteria": {
@@ -8143,6 +8239,7 @@
   },
   "aoa3:completionist/medusa_light": {
     "criteria": {
+      "obtain_shadowlord_trophy": "2021-06-26 00:33:58 +0800",
       "obtain_elusive_trophy": "2021-06-05 01:47:37 +0800"
     },
     "done": false
@@ -8444,6 +8541,12 @@
   "aoa3:creeponia/root": {
     "criteria": {
       "enter_block_creeponia_portal": "2021-05-30 01:02:22 +0800"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2021-06-26 01:18:29 +0800"
     },
     "done": true
   },
