@@ -191,6 +191,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2021-07-04 00:28:25 +0800"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/birch/birch_classic_door": {
     "criteria": {
       "has_planks": "2021-05-16 20:45:40 +0800"
@@ -785,6 +791,12 @@
     },
     "done": true
   },
+  "undergarden:recipes/undergarden_group/depthrock_tiles_stonecutting": {
+    "criteria": {
+      "has_undergarden:depthrock": "2021-06-28 20:32:32 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2021-05-29 21:51:53 +0800"
@@ -926,6 +938,12 @@
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2021-05-22 00:03:37 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2021-07-04 00:27:18 +0800"
     },
     "done": true
   },
@@ -1154,6 +1172,12 @@
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2021-06-04 00:34:55 +0800"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/gothic/prismarine_brick_gothic_tall": {
+    "criteria": {
+      "has_planks": "2021-07-04 00:27:17 +0800"
     },
     "done": true
   },
@@ -1469,6 +1493,12 @@
     },
     "done": true
   },
+  "undergarden:recipes/undergarden_group/smogstem_boat": {
+    "criteria": {
+      "in_water": "2021-06-26 22:20:29 +0800"
+    },
+    "done": true
+  },
   "aoa3:overworld/the_journey_begins": {
     "criteria": {
       "obtain_worn_book": "2021-05-25 23:53:57 +0800"
@@ -1568,6 +1598,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/balloon": {
     "criteria": {
       "has_hemp_fabric": "2021-05-27 21:41:17 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2021-07-04 00:27:17 +0800"
     },
     "done": true
   },
@@ -1673,6 +1709,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2021-07-04 00:02:26 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/ingot_silver_from_dust": {
     "criteria": {
       "has_dust_silver": "2021-05-26 22:16:38 +0800"
@@ -1700,6 +1742,12 @@
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2021-05-30 23:19:19 +0800"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/depthrock_tile_slab_stonecutting": {
+    "criteria": {
+      "has_undergarden:depthrock": "2021-06-28 20:32:32 +0800"
     },
     "done": true
   },
@@ -1934,6 +1982,12 @@
   "mcwdoors:recipes/metal_reinforced_door": {
     "criteria": {
       "has_planks": "2021-05-16 14:26:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2021-06-28 22:03:58 +0800"
     },
     "done": true
   },
@@ -3354,6 +3408,12 @@
     },
     "done": true
   },
+  "undergarden:recipes/undergarden_group/wigglewood_boat": {
+    "criteria": {
+      "in_water": "2021-06-26 22:20:29 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2021-05-16 09:57:21 +0800"
@@ -4032,6 +4092,12 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/gothic/prismarine_brick_gothic": {
+    "criteria": {
+      "has_planks": "2021-07-04 00:27:17 +0800"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/dark_oak/dark_oak_glass_trapdoor": {
     "criteria": {
       "has_planks": "2021-05-22 23:31:03 +0800"
@@ -4071,6 +4137,12 @@
   "iceandfire:iceandfire/kill_cyclops": {
     "criteria": {
       "killed_fire_dragon": "2021-06-02 21:13:39 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2021-07-04 00:28:25 +0800"
     },
     "done": true
   },
@@ -4759,6 +4831,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2021-07-04 00:27:18 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2021-05-16 14:37:17 +0800"
@@ -4933,6 +5011,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2021-07-04 00:34:24 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/conveyor_splittercovered": {
     "criteria": {
       "has_vertical_conveyor": "2021-06-18 20:17:05 +0800"
@@ -4960,6 +5044,18 @@
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2021-05-29 13:50:35 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
+    "criteria": {
+      "has_prismarine_bricks": "2021-07-04 00:27:17 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall": {
+    "criteria": {
+      "has_prismarine": "2021-07-04 00:27:18 +0800"
     },
     "done": true
   },
@@ -5209,6 +5305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2021-07-04 00:27:18 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_birch_planks": "2021-05-16 20:45:40 +0800"
@@ -5299,6 +5401,7 @@
       "minecraft:blaze": "2021-05-22 00:09:51 +0800",
       "minecraft:skeleton": "2021-05-18 19:44:44 +0800",
       "minecraft:ghast": "2021-05-30 18:48:45 +0800",
+      "minecraft:guardian": "2021-06-28 22:03:13 +0800",
       "minecraft:magma_cube": "2021-06-04 23:46:26 +0800",
       "minecraft:spider": "2021-05-17 23:09:36 +0800",
       "minecraft:creeper": "2021-05-26 23:24:15 +0800",
@@ -5349,6 +5452,12 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2021-05-25 22:36:05 +0800"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/depthrock_tile_stairs_stonecutting": {
+    "criteria": {
+      "has_undergarden:depthrock": "2021-06-28 20:32:32 +0800"
     },
     "done": true
   },
@@ -5499,6 +5608,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/stairs_alu_scaffolding_standard": {
     "criteria": {
       "has_alu_scaffolding_standard": "2021-06-05 21:00:25 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2021-06-28 22:03:58 +0800"
     },
     "done": true
   },
@@ -6012,6 +6127,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2021-07-04 00:27:17 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2021-05-26 21:10:12 +0800"
@@ -6241,6 +6362,7 @@
       "minecraft:snowy_tundra": "2021-06-18 23:42:43 +0800",
       "minecraft:desert": "2021-05-28 22:20:27 +0800",
       "minecraft:frozen_river": "2021-06-18 23:44:04 +0800",
+      "minecraft:deep_frozen_ocean": "2021-06-28 22:01:30 +0800",
       "minecraft:birch_forest": "2021-05-22 22:15:33 +0800",
       "minecraft:snowy_beach": "2021-06-18 23:42:29 +0800",
       "minecraft:warm_ocean": "2021-05-19 23:09:36 +0800",
@@ -6254,6 +6376,7 @@
       "minecraft:wooded_mountains": "2021-06-02 23:12:31 +0800",
       "minecraft:wooded_hills": "2021-05-16 13:50:36 +0800",
       "minecraft:stone_shore": "2021-06-02 23:46:22 +0800",
+      "minecraft:wooded_badlands_plateau": "2021-06-28 21:39:41 +0800",
       "minecraft:swamp": "2021-05-30 23:11:48 +0800",
       "minecraft:plains": "2021-05-16 09:56:22 +0800"
     },
@@ -6268,6 +6391,12 @@
   "mcwdoors:recipes/garage_remote": {
     "criteria": {
       "has_planks": "2021-06-14 16:31:31 +0800"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/grongle_boat": {
+    "criteria": {
+      "in_water": "2021-06-26 22:20:29 +0800"
     },
     "done": true
   },
@@ -6727,6 +6856,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2021-07-04 00:28:25 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2021-05-16 13:56:29 +0800"
@@ -7025,6 +7160,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2021-06-28 22:03:58 +0800"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/tile_log_oak": {
     "criteria": {
       "has_planks": "2021-05-16 09:57:03 +0800"
@@ -7109,6 +7250,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2021-06-28 21:30:58 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2021-05-16 14:34:05 +0800"
@@ -7154,6 +7301,12 @@
   "mcwtrpdoors:recipes/dark_oak/dark_oak_paper_trapdoor": {
     "criteria": {
       "has_planks": "2021-05-22 23:31:03 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
+    "criteria": {
+      "has_prismarine_bricks": "2021-07-04 00:27:17 +0800"
     },
     "done": true
   },
@@ -7262,6 +7415,12 @@
   "roadstuff:recipes/roadstuff_group/green_traffic_cone": {
     "criteria": {
       "has_bitumen": "2021-05-23 22:04:28 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2021-07-04 00:27:18 +0800"
     },
     "done": true
   },
@@ -7536,6 +7695,7 @@
       "kill_sea_charger": "2021-05-30 00:54:20 +0800",
       "kill_snow_charger": "2021-05-31 21:37:44 +0800",
       "kill_charger": "2021-05-16 14:03:49 +0800",
+      "kill_swamp_charger": "2021-06-28 21:27:31 +0800",
       "kill_void_charger": "2021-05-25 21:05:05 +0800"
     },
     "done": false
@@ -7543,6 +7703,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/crate": {
     "criteria": {
       "has_treated_planks": "2021-05-24 23:03:26 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2021-07-04 00:12:46 +0800"
     },
     "done": true
   },
@@ -7609,6 +7775,12 @@
   "supplementaries:recipes/crimson_lantern": {
     "criteria": {
       "has_plank": "2021-05-22 16:37:57 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2021-07-04 00:28:25 +0800"
     },
     "done": true
   },
@@ -8161,6 +8333,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/strip_curtain": {
     "criteria": {
       "has_metal_rod": "2021-05-27 21:18:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2021-07-04 00:27:18 +0800"
     },
     "done": true
   },
