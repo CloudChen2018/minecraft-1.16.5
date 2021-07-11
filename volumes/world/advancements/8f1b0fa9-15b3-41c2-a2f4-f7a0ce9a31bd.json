@@ -785,6 +785,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2021-07-10 17:29:10 +0800"
+    },
+    "done": true
+  },
   "supplementaries:recipes/hanging_sign_birch": {
     "criteria": {
       "has_plank": "2021-05-16 20:45:40 +0800"
@@ -2255,6 +2261,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sniper_duel": {
+    "criteria": {
+      "killed_skeleton": "2021-07-10 12:38:13 +0800"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/gothic/stone_brick_gothic": {
     "criteria": {
       "has_planks": "2021-06-14 17:57:56 +0800"
@@ -2522,6 +2534,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/ingot_lead_from_blasting": {
     "criteria": {
       "has_ore_lead": "2021-05-19 23:04:03 +0800"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_disenchantment": {
+    "criteria": {
+      "coded_trigger": "2021-07-11 20:48:55 +0800"
     },
     "done": true
   },
@@ -3591,6 +3609,12 @@
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2021-05-29 21:51:53 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2021-07-10 17:29:10 +0800"
     },
     "done": true
   },
@@ -5173,6 +5197,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/versatility": {
+    "criteria": {
+      "coded_trigger": "2021-07-10 11:59:51 +0800"
+    },
+    "done": true
+  },
   "undergarden:recipes/undergarden_group/froststeel_nugget_to_ingot": {
     "criteria": {
       "has_froststeel_nugget": "2021-06-26 14:05:06 +0800"
@@ -6067,6 +6097,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2021-07-10 17:29:10 +0800"
+    },
+    "done": true
+  },
   "roadstuff:recipes/roadstuff_group/pink_traffic_barrel": {
     "criteria": {
       "has_bitumen": "2021-05-23 22:04:28 +0800"
@@ -6925,6 +6961,12 @@
   "mcwwindows:recipes/stone/andesite_window": {
     "criteria": {
       "has_planks": "2021-05-16 13:56:29 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2021-07-10 14:37:10 +0800"
     },
     "done": true
   },
