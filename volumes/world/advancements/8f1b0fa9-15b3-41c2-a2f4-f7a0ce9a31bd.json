@@ -1493,6 +1493,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/string": {
+    "criteria": {
+      "has_plank": "2021-07-12 20:11:43 +0800"
+    },
+    "done": true
+  },
   "mcwfences:recipes/dark_oak_stockade_fence": {
     "criteria": {
       "has_planks": "2021-05-23 00:50:37 +0800"
@@ -4777,6 +4783,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2021-07-12 21:11:22 +0800"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/oak/oak_glass_door": {
     "criteria": {
       "has_planks": "2021-05-16 09:57:09 +0800"
@@ -7042,6 +7054,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/rope_arrow": {
+    "criteria": {
+      "has_plank": "2021-07-12 20:11:43 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/ingot_copper_to_storage_copper": {
     "criteria": {
       "has_ingot_copper": "2021-05-24 23:30:49 +0800"
@@ -8933,6 +8951,12 @@
   "aoa3:overworld/armoury_prep": {
     "criteria": {
       "obtain_frame_bench": "2021-05-30 16:22:45 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2021-07-12 08:57:45 +0800"
     },
     "done": true
   },
